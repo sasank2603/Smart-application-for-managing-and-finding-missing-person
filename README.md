@@ -1,4 +1,4 @@
-# AI-Powered Missing Person Tracking System
+# Unified Digital Framework for Community Assisted Missing Person Identification
 
 A comprehensive web application designed to help law enforcement agencies and the public quickly locate missing persons using advanced AI facial recognition technology.
 
